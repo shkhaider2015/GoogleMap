@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+
+    <string name="profession_prompt">Choose Profession</string>
+    <string-array name="profession_array">
+        <item> <size></size> Mechanic</item>
+        <item>Plumber</item>
+        <item>Gardner</item>
+        <item>Carpenter</item>
+    </string-array>
+</resources>
